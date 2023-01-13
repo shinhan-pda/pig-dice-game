@@ -100,3 +100,4 @@ def user_choose_roll(turn, order, bank, score):
       print('roll or stop 중 입력하십시오.\n')
       user_choose_roll(turn, order)
 
+
